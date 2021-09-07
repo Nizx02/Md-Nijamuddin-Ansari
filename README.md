@@ -1,2 +1,2 @@
-# Md-Nijamuddin-Ansari
+# Nijamuddin-Ansari
 Full Stack Developer
